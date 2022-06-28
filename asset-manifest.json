@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Clicker/static/css/main.fb8501db.css",
+    "main.js": "/Clicker/static/js/main.4fe211f4.js",
+    "static/js/787.657c8d76.chunk.js": "/Clicker/static/js/787.657c8d76.chunk.js",
+    "static/media/messi.png": "/Clicker/static/media/messi.c7f4b0dcb02206fcaba7.png",
+    "index.html": "/Clicker/index.html",
+    "main.fb8501db.css.map": "/Clicker/static/css/main.fb8501db.css.map",
+    "main.4fe211f4.js.map": "/Clicker/static/js/main.4fe211f4.js.map",
+    "787.657c8d76.chunk.js.map": "/Clicker/static/js/787.657c8d76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8501db.css",
+    "static/js/main.4fe211f4.js"
+  ]
+}
